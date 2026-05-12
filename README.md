@@ -36,8 +36,8 @@ Manoj Bhasin and Gajendra P. S. Raghava
 
 **DOI:**  
 https://doi.org/10.1074/jbc.M401932200
+https://doi.org/10.5281/zenodo.20136196
 
-Source Paper: :contentReference[oaicite:0]{index=0}
 
 ---
 
